@@ -1,0 +1,35 @@
+
+//USER ACTION
+export const GET_USER = "GET_USER"
+
+export const REMOVER_USER = "REMOVER_USER"
+export const UPDATE_USER = "UPDATE_USER"
+
+
+//EVENT ACTION
+
+export const GET_EVENTS = "GET_EVENTS"
+
+export const GET_MY_EVENTS = "GET_MY_EVENTS"
+
+export const CREATE_MY_EVENT = "CREATE_MY_EVENT"
+
+export const DELETE_MY_EVENT = "DELETE_MY_EVENT"
+
+
+//ATTENDEE ACTION
+
+
+export const GET_ATTENDEES = "GET_ATTENDEES"
+
+export const ADD_ATTENDEE = "ADD_ATTENDEE"
+
+export const REMOVE_ATTENDEE = "REMOVE_ATTENDEE"
+
+//CHAT ACTION
+
+export const GET_MESSAGES = "GET_MESSAGES"
+
+export const SEND_MESSAGES = "SEND_MESSAGES"
+
+export const LISTEN_MESSAGES = "LISTEN_MESSAGES"
